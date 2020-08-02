@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yihang-demo.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-08-02T13:46:44.644Z</updated>
+    <title>艺航演示站</title>
+    <updated>2020-08-02T13:54:00.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yihang-demo.github.io"/>
     <link rel="self" href="https://yihang-demo.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>充满好奇心！</subtitle>
     <logo>https://yihang-demo.github.io/images/avatar.png</logo>
     <icon>https://yihang-demo.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, 艺航演示站</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://yihang-demo.github.io/post/hello-gridea/</id>
